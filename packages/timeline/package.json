@@ -1,0 +1,21 @@
+{
+  "name": "@quotescharts/timeline",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wareset <git@wareset.com>",
+  "homepage": "https://github.com/wareset/quotescharts#readme",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wareset/quotescharts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wareset/quotescharts/issues"
+  }
+}
